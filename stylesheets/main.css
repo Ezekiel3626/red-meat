@@ -10,6 +10,10 @@ h2.Beef {text-align: center;}
 
 h3.Filet {text-align: center;}
 
+h3.about {
+	text-align: center;
+}
+
 body {
 	background-color: red;
 	border: 50px solid black;
