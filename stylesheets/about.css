@@ -15,4 +15,5 @@ p {
 div.hello {
 	border: 10px solid black;
 	padding: 10px;
+	margin: 20px;
 }
