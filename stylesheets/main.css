@@ -3,3 +3,22 @@ img.center-block {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+h1.Title {text-align: center;}
+
+h2.Beef {text-align: center;}
+
+h3.Filet {text-align: center;}
+
+body {
+	background-color: red;
+	border: 50px solid black;
+	margin: 10px;
+	font-family: Helvetica;
+}
+
+div.donate {text-align: center;}
+
+div.video {text-align: center;
+	margin-top: 10px;
+}
